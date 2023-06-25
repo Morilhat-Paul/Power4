@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://wakatime.com/badge/github/Morilhat-Paul/React-app"><img src="https://wakatime.com/badge/github/Morilhat-Paul/React-app.svg" alt="wakatime"></a>
-    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/Morilhat-Paul/React-app?style=plastic">
+    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/Morilhat-Paul/Power4?style=plastic">
 </p>
 
 &nbsp;
