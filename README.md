@@ -38,7 +38,7 @@ A player wins if 4 pieces are aligned vertically / horizontally or diagonally
 - [**TypeScript**](https://www.typescriptlang.org/)
 - [**xstate**](https://xstate.js.org/): _State machine_
 - [**React**](https://fr.legacy.reactjs.org): _Front-end_
-- [**NodeJS**](https://nodejs.org) and [**WebSocket**](https://developer.mozilla.org/fr/docs/Web/API/WebSockets_API): _Server_
+- [**NodeJS**](https://nodejs.org), [**WebSocket**](https://www.npmjs.com/package/reconnecting-websocket) and [**Fastify**](https://www.npmjs.com/package/@fastify/websocket): _Server_
 
 &nbsp;
 
