@@ -26,7 +26,7 @@ export type Player = {
 }
 
 export type CellEmpty = "E"
-export type CellState = PlayerColor.RED | PlayerColor.YELLOW | CellEmpty
+export type CellState = PlayerColor | CellEmpty
 export type GridSate = CellState[][]
 export type GameContext = ContextFrom<typeof GameModel>
 export type GameEvents = EventFrom<typeof GameModel>
